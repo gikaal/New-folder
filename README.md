@@ -1,4 +1,4 @@
-# New-folder 
+# DB to EXCEL 
 Here, you must create a PHP file named read_and_export.php to create the following script, 
 which reads records in the items table and creates an Excel file with the content of the items table. 
 In the script, a database connection object is declared to retrieve data from the database table. Next, a select query is defined 
